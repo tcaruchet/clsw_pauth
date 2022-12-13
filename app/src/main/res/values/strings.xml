@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">PAuth</string>
+    <string name="display_name" translatable="false">PAuth - Authenticator</string>
+    <string name="name_location">Location name</string>
+    <string name="addTextButton">Add</string>
+    <string name="WaitHRSensorRead">Wait for HR reading...</string>
+    <string name="ErrorText">Error</string>
+    <string name="WaitSensorsRead">Wait for Sensors reading...</string>
+</resources>

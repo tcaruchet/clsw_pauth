@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="name_location">Nom du Lieu</string>
+    <string name="addTextButton">Ajouter</string>
+    <string name="WaitHRSensorRead">Attente du Capteur Cardiaque...</string>
+    <string name="ErrorText">Erreur</string>
+    <string name="WaitSensorsRead">Attente des capteurs...</string>
+</resources>
